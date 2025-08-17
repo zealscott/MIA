@@ -134,7 +134,7 @@ Both frameworks support multiple datasets through configuration files:
 
 ## Citation
 
-If you use this code in your research, please cite our paper:
+Please cite our paper if our work is useful for your research:
 
 ```bibtex
 @inproceedings{du2026cascading,
