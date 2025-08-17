@@ -1,0 +1,13 @@
+# MIA config
+n_shadows: 256
+model_type: "resnet"
+# CMIA config
+n_reference: 1
+positive_tolerance: 0   
+negative_tolerance: 10   
+max_anchor_ratio: 0.05
+min_anchor_size: 30
+# path config
+data_dir: "/path/to/datasets"
+# env
+n_gpus: 1

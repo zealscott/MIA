@@ -1,0 +1,8 @@
+# MIA config
+n_shadows: 256
+seed: 42
+model_type: "resnet"
+# path config
+data_dir: "/path/to/datasets"
+# env
+n_gpus: 1
